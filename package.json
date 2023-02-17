@@ -1,0 +1,23 @@
+{
+  "name": "chordscript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QaMuu/ChordScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QaMuu/ChordScript/issues"
+  },
+  "homepage": "https://github.com/QaMuu/ChordScript#readme",
+  "dependencies": {
+    "@types/google-apps-script": "^1.0.57"
+  }
+}
